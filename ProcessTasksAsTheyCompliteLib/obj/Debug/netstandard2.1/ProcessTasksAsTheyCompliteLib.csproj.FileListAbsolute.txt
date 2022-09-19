@@ -1,0 +1,10 @@
+d:\Codes\DotNetAsyncExamples\ProcessTasksAsTheyCompliteLib\obj\Debug\netstandard2.1\ProcessTasksAsTheyCompliteLib.csproj.AssemblyReference.cache
+d:\Codes\DotNetAsyncExamples\ProcessTasksAsTheyCompliteLib\obj\Debug\netstandard2.1\ProcessTasksAsTheyCompliteLib.GeneratedMSBuildEditorConfig.editorconfig
+d:\Codes\DotNetAsyncExamples\ProcessTasksAsTheyCompliteLib\obj\Debug\netstandard2.1\ProcessTasksAsTheyCompliteLib.AssemblyInfoInputs.cache
+d:\Codes\DotNetAsyncExamples\ProcessTasksAsTheyCompliteLib\obj\Debug\netstandard2.1\ProcessTasksAsTheyCompliteLib.AssemblyInfo.cs
+d:\Codes\DotNetAsyncExamples\ProcessTasksAsTheyCompliteLib\obj\Debug\netstandard2.1\ProcessTasksAsTheyCompliteLib.csproj.CoreCompileInputs.cache
+d:\Codes\DotNetAsyncExamples\ProcessTasksAsTheyCompliteLib\bin\Debug\netstandard2.1\ProcessTasksAsTheyCompliteLib.deps.json
+d:\Codes\DotNetAsyncExamples\ProcessTasksAsTheyCompliteLib\bin\Debug\netstandard2.1\ProcessTasksAsTheyCompliteLib.dll
+d:\Codes\DotNetAsyncExamples\ProcessTasksAsTheyCompliteLib\bin\Debug\netstandard2.1\ProcessTasksAsTheyCompliteLib.pdb
+d:\Codes\DotNetAsyncExamples\ProcessTasksAsTheyCompliteLib\obj\Debug\netstandard2.1\ProcessTasksAsTheyCompliteLib.dll
+d:\Codes\DotNetAsyncExamples\ProcessTasksAsTheyCompliteLib\obj\Debug\netstandard2.1\ProcessTasksAsTheyCompliteLib.pdb

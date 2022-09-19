@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProcessTasksAsTheyCompliteExample/1.0.0": {
+        "dependencies": {
+          "ProcessTasksAsTheyCompliteLib": "1.0.0"
+        },
+        "runtime": {
+          "ProcessTasksAsTheyCompliteExample.dll": {}
+        }
+      },
+      "ProcessTasksAsTheyCompliteLib/1.0.0": {
+        "runtime": {
+          "ProcessTasksAsTheyCompliteLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProcessTasksAsTheyCompliteExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProcessTasksAsTheyCompliteLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
