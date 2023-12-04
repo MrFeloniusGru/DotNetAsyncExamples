@@ -1,4 +1,4 @@
-This project is console application which is based on the **_Stephen Toub_** [Processing tasks as they complete](https://devblogs.microsoft.com/pfxteam/processing-tasks-as-they-complete/) article and shows the method of processing task's results in order they have been completed.
+This project is console application based on the **_Stephen Toub_** [Processing tasks as they complete](https://devblogs.microsoft.com/pfxteam/processing-tasks-as-they-complete/) article and shows the method of processing task's results in order they have been completed.
 
 The simple approache to process tasks in order the have been completed is using waitAny() in the loop. But this method has computational complexity O(n^2)
 ```c#
